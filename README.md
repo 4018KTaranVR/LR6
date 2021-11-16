@@ -57,6 +57,18 @@
 
 ![](https://sun9-81.userapi.com/impg/8PYbjHaZHgMuwm90rF_F4iFFP3TBTZN35gzRfw/jrR14hhBbCI.jpg?size=400x60&quality=96&sign=692cd038f8b8f064b1215ad09e7c9872&type=album)
 
-Создадим ветку для отчета и перейдем в нее `git branch report`. 
+Создадим ветку для отчета и перейдем в нее `git branch report`.
 
 ![](https://sun9-35.userapi.com/impg/L9_AvpASg-XVLTx0C2w6r75QzPaXmAC5roDKpg/w79LuQUokS8.jpg?size=401x113&quality=96&sign=346af73c5834d16d485bc08496bb6594&type=album)
+
+Отчет, написанный в программе VS Code перемещаем в каталог __LR6__ и не забываем про команды `git add` и `git commit`. 
+
+Получим итоговую историю операций `git log`.
+
+![](https://sun9-79.userapi.com/impg/YmXzzkYtu1hNd0cK6lBxEROKIWG4krFkuZ-5OQ/qM6krRf2vaI.jpg?size=700x865&quality=96&sign=f0c35e56663e8ddb782865e6d1ff98f6&type=album)
+
+После редактирования отчета, его нужно будет сохранить и произвести команды `git add` и `git commit`.
+
+Папку со скриншотами просто переместим в директорию проекта. 
+
+В конце работы необходимо будет отправить все локальные изменения в сетевое хранилище __GitHub__ командой `git push`
